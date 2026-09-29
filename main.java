@@ -2,6 +2,7 @@
 Nguyễn Phúc Trường An
 202419022
 /****************/
+
 public class main {
     public static void main(String[] args) {
         System.out.println("Test 1: Tao 2 Employee (2 constructor)");
